@@ -1,0 +1,390 @@
+{
+	"Eigenschaften": {
+		"MU": 14,
+		"KL": 13,
+		"IN": 13,
+		"CH": 12,
+		"FF": 14,
+		"GE": 14,
+		"KO": 10,
+		"KK": 11
+	},
+	"PersoenlicheDaten": {
+		"Vita": {
+			"Name": "Korvo",
+			"Familie": null,
+			"Geburtsort": null,
+			"Geburtsdatum": null,
+			"Alter": 25,
+			"Geschlecht": "Männlich",
+			"Spezies": "Mensch",
+			"Größe": null,
+			"Gewicht": null,
+			"Haarfarbe": null,
+			"Augenfarbe": "Hellblau",
+			"Kultur": "Horasier",
+			"Profession": "Meuchelmörder",
+			"Titel": null,
+			"Sozialstatus": null,
+			"Charakteristika": null,
+			"Sonstiges": null
+		},
+
+		"Erfahrungsgrad": null,
+		"AP gesamt": null,
+		"AP gesammelt": null,
+		"Ap ausgegeben": null,
+
+		"Vorteile": ["Entfernungssinn", "", "Kampftechnik (Bögen)", "Reich 2", "Waffenbegabung 2", "Zwergennase", "Soziale Anpassungsfähigkeit", "Verbesserte Regeneration", "Zäher Hund"],
+		"Nachteile": ["Vorurteil (Elfen)", "Belästigung", "Junge", "Kleptomanie"],
+		"Allgemeine Sonderfertigkeiten": ["Fallen entschärfen", "Füchsisch", "Lippenlesen", "Hehlerei", "Meister der Improvisation"],
+
+		"Lebensenergie": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+		"Astralenergie": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+		"Karmaenergie": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+		"Seelenkraft": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+		"Zähigkeit": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+		"Ausweichen": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+		"Initiative": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+		"Geschwindigkeit": {
+			"Wert": null,
+			"Bonus/Malus": null,
+			"Zukauf": null,
+			"Max": null
+		},
+
+		"Schicksalspunkte": {
+			"Wert": null,
+			"Bonus": null,
+			"Max": null,
+			"Aktuell": null
+		}
+	},
+	"Spielwerte": {
+		"Fertigkeiten": {
+			"Körpertalente": {
+				"Fliegen": null,
+				"Gaukeleien": null,
+				"Klettern": 10,
+				"Körperbeherrschung": 10,
+				"Kraftakt": null,
+				"Reiten": null,
+				"Schwimmen": null,
+				"Selbstbeherrschung": null,
+				"Singen": null,
+				"Sinnesschärfe": 10,
+				"Tanzen": 1,
+				"Taschendiebstahl": 10,
+				"Verbergen": 10,
+				"Zechen": null
+			},
+
+			"Gesellschaftstalente": {
+				"Bekehren & Überzeugen": null,
+				"Betören": 1,
+				"Einschüchtern": null,
+				"Etikette": 2,
+				"Gassenwissen": 10,
+				"Menschenkenntnis": 6,
+				"Überreden": 10,
+				"Verkleiden": 10,
+				"Willenskraft": 5
+			},
+
+			"Naturtalente": {
+				"Fährtensuche": null,
+				"Fesseln": null,
+				"Fischen & Angeln": null,
+				"Orientierung": 3,
+				"Pflanzenkunde": null,
+				"Tierkunde": null,
+				"Wildnisleben": null
+			},
+
+			"Wissenstalente": {
+				"Brett- & Glücksspiel": null,
+				"Geographie": null,
+				"Geschichtswissen": null,
+				"Götter & Kulte": null,
+				"Kriegskunst": null,
+				"Magiekunde": null,
+				"Mechanik": null,
+				"Rechnen": null,
+				"Rechtskunde": 6,
+				"Sagen & Legenden": 2,
+				"Sphärenkunde": null,
+				"Sternenkunde": null
+			},
+
+			"Handwerkstalente": {
+				"Alchemie": null,
+				"Boote & Schiffe": 1,
+				"Fahrzeuge": null,
+				"Handel": 10,
+				"Heilkunde Gift": null,
+				"Heilkunde Krankheiten": null,
+				"Heilkunde Seele": null,
+				"Heilkunde Wunden": null,
+				"Holzbearbeitung": 10,
+				"Lebensmittelbearbeitung": null,
+				"Lederbearbeitung": null,
+				"Malen & Zeichnen": null,
+				"Metallbearbeitung": null,
+				"Musizieren": null,
+				"Schlösserknacken": 10,
+				"Steinbearbeitung": null,
+				"Stoffbearbeitung": null
+			}
+		},
+
+		"Sprachen": [],
+
+		"Schriften": [],
+
+		"Eigenschaftsmodifikationen": {
+			"MU": null,
+			"KL": null,
+			"IN": null,
+			"CH": null,
+			"FF": null,
+			"GE": null,
+			"KO": null,
+			"KK": null
+		}
+	},
+	"Kampf": {
+		"LE": null,
+		"AW": null,
+		"INI": null,
+		"SK": null,
+		"ZK": null,
+
+		"Kampftechniken": {
+			"Armbrüste": null,
+			"Bögen": null,
+			"Dolche": null,
+			"Fechtwaffen": null,
+			"Hiebwaffen": null,
+			"Kettenwaffen": null,
+			"Lanzen": null,
+			"Raufen": null,
+			"Schilde": null,
+			"Schwerter": null,
+			"Stangenwaffen": null,
+			"Wurfwaffen": null,
+			"Zweihandhiebwaffen": null,
+			"Zweihandschwerter": null
+		},
+		"Lebensenergie": {
+			"Max": null,
+			"Aktuell": null,
+			"LE verloren": null
+		},
+		"Nahkampfwaffen": [{
+				"Waffe": null,
+				"Kampftechnik": null,
+				"Schadensbonus": null,
+				"TP": null,
+				"AT/PA Mod.": null,
+				"Reichweite": null,
+				"AT": null,
+				"PA": null,
+				"Gewicht": null
+			},
+			{
+				"Waffen": null,
+				"Kampftechnik": null,
+				"Schadensbonus": null,
+				"TP": null,
+				"AT/PA Mod.": null,
+				"Reichweite": null,
+				"AT": null,
+				"PA": null,
+				"Gewicht": null
+			},
+			{
+				"Waffen": null,
+				"Kampftechnik": null,
+				"Schadensbonus": null,
+				"TP": null,
+				"AT/PA Mod.": null,
+				"Reichweite": null,
+				"AT": null,
+				"PA": null,
+				"Gewicht": null
+			},
+			{
+				"Waffen": null,
+				"Kampftechnik": null,
+				"Schadensbonus": null,
+				"TP": null,
+				"AT/PA Mod.": null,
+				"Reichweite": null,
+				"AT": null,
+				"PA": null,
+				"Gewicht": null
+			}
+		],
+		"Fernkampfwaffen": [{
+				"Waffe": null,
+				"Kampftechnik": null,
+				"Ladezeiten": null,
+				"TP": null,
+				"Reichweite": null,
+				"Fernkampf": null,
+				"Munition": null,
+				"Gewicht": null
+			},
+			{
+				"Waffen": null,
+				"Kampftechnik": null,
+				"Ladezeiten": null,
+				"TP": null,
+				"Reichweite": null,
+				"Fernkampf": null,
+				"Munition": null,
+				"Gewicht": null
+			},
+			{
+				"Waffen": null,
+				"Kampftechnik": null,
+				"Ladezeiten": null,
+				"TP": null,
+				"Reichweite": null,
+				"Fernkampf": null,
+				"Munition": null,
+				"Gewicht": null
+			},
+			{
+				"Waffen": null,
+				"Kampftechnik": null,
+				"Ladezeiten": null,
+				"TP": null,
+				"Reichweite": null,
+				"Fernkampf": null,
+				"Munition": null,
+				"Gewicht": null
+			}
+		],
+		"Rüstungen": [{
+				"Rüstung": null,
+				"RS": null,
+				"BE": null,
+				"Zusätzliche Abzüge": null,
+				"Gewicht": null,
+				"Reise, Schlacht": null
+			},
+			{
+				"Rüstung": null,
+				"RS": null,
+				"BE": null,
+				"Zusätzliche Abzüge": null,
+				"Gewicht": null,
+				"Reise, Schlacht": null
+			},
+			{
+				"Rüstung": null,
+				"RS": null,
+				"BE": null,
+				"Zusätzliche Abzüge": null,
+				"Gewicht": null,
+				"Reise, Schlacht": null
+			},
+			{
+				"Rüstung": null,
+				"RS": null,
+				"BE": null,
+				"Zusätzliche Abzüge": null,
+				"Gewicht": null,
+				"Reise, Schlacht": null
+			}
+		],
+		"Schild/Parrierwaffe": [{
+				"Schild/Parrierwaffe": null,
+				"Strukturp.": null,
+				"AT/PA Modifikator": null,
+				"Gewicht": null
+			},
+			{
+				"Schild/Parrierwaffe": null,
+				"Strukturp.": null,
+				"AT/PA Modifikator": null,
+				"Gewicht": null
+			},
+			{
+				"Schild/Parrierwaffe": null,
+				"Strukturp.": null,
+				"AT/PA Modifikator": null,
+				"Gewicht": null
+			},
+			{
+				"Schild/Parrierwaffe": null,
+				"Strukturp.": null,
+				"AT/PA Modifikator": null,
+				"Gewicht": null
+			}
+		],
+		"Kampfsonderfertigkeiten": ["Kampfreflexe 1", "Präziser Schuss 1", "Schnellladen", "Beidhändiger Kampf"],
+		"Zustand": {
+			"Belastung": null,
+			"Betäbung": null,
+			"Entrückt": null,
+			"Furcht": null,
+			"Paralyse": null,
+			"Schmerz": null,
+			"Verwirrung": null
+		}
+	},
+	"Besitz": {
+		"Geldbeutel": {
+			"Kreuzer": null,
+			"Heller": null,
+			"Silbertaler": null,
+			"Dukaten": null,
+			"Edelsteine": null,
+			"Schmuck": null,
+			"Sonstiges": null
+		},
+		"Ausrüstung": [{
+			"Gegenstand": null,
+			"Gewicht": null,
+			"Wo getragen": null
+		}],
+		"Tragkraft": null
+	}
+}
