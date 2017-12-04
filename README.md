@@ -1,9 +1,10 @@
-# character-sheet
+# Character Sheet
+Interactive representation of a character sheet from a *Pen & Paper-RPG*
+> Since I don't own any rights of the game and are not to thrilled about legal steps against my person, I sadly can't name it here.  
 
-> Interactive representation of a character sheet from a Pen & Paper-RPG
+It is build with the help of [Vue.js](https://vuejs.org/) & [Bulma](https://bulma.io://bulma.io/).
 
-## Build Setup
-
+## Setup
 ``` bash
 # install dependencies
 npm install
@@ -14,5 +15,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
