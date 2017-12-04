@@ -1,15 +1,6 @@
 <template>
   <div id="app">
     <hero title="Heldendokument"></hero>
-    <!-- <eigenschaft title="MU">10</eigenschaft>
-    <eigenschaft title="KL">10</eigenschaft>
-    <eigenschaft title="IN">10</eigenschaft>
-    <eigenschaft title="CH">10</eigenschaft>
-    <eigenschaft title="FF">10</eigenschaft>
-    <eigenschaft title="GE">10</eigenschaft>
-    <eigenschaft title="KO">10</eigenschaft>
-    <eigenschaft title="KK">10</eigenschaft> -->
-    <personal-data></personal-data>
   </div>
 </template>
 
